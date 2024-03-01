@@ -1,0 +1,17 @@
+---
+title: "Assignment"
+author: "LBZH"
+date: "2024-03-01"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r sessionInfo}
+sessionInfo()
+```
+```{r library}
+library(epiwraps)
+```
